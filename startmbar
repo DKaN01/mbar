@@ -1,0 +1,6 @@
+#!/bin/sh
+
+while true; do
+    mbar
+    sleep 1s    # Update time every second
+done
